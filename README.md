@@ -39,11 +39,11 @@ project-folder/
 
 ## 🚀 Setup Instructions
 
-### 1. Clone the repo
+### . Clone the repo
 
-```bash
-git clone https://github.com/iamJ3/Express-Wit-mongo.git
-cd Express-Wit-mongo
+```bash[
+git clone https://github.com/iamJ3/Mini-Pintrest
+cd Mini-Pintrest
 
 📜 License
 MIT – do what you want.
